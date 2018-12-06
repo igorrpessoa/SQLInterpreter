@@ -1,0 +1,7 @@
+id,season, city, date,team1,team2,toss_winner,toss_decision,result,dl_applied,winner,win_by_runs,win_by_wickets,player_of_match,venue,umpire1,umpire2,umpire3
+1,2008,Bangalore,4/12/2008,Kolkata Knight Riders,Coritiba,Coritiba,field,normal,0,Coritiba,100,10,Jorginho,M Chinnaswamy Stadium,Asad Rauf,ReKoertzen, 
+2,2004,SP,4/18/2008,Corinthians,Paleiras,Corinthians,ball,normal,0,Corinthians,120,2,Sergio,M Chinnaswamy Stadium,Asad Rauf,ReKoertzen, 
+3,2005,RJ,5/2/2008,Paleiras,Royal Challengers Bangalore ,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore ,140,4,Romario,M Chinnaswamy Stadium,Asad Rauf,ReKoertzen, 
+4,2008,CTBA,4/3/2008,Coritiba,Atlético,Atlético,ball,normal,0,Coritiba,140,3,Ronaldo,M Chinnaswamy Stadium,Asad Rauf,ReKoertzen, 
+5,2008,Porto Alegre,2/12/2008,Gremio,Coritiba,Gremio,field,normal,0,Coritiba,180,6,Igor,M Chinnaswamy Stadium,Asad Rauf,ReKoertzen, 
+6,2008,CTBA,4/30/2008,Atlético,Gremio,Atlético,ball,normal,0,Gremio,100,2,Felipe,M Chinnaswamy Stadium,Asad Rauf,ReKoertzen, 
