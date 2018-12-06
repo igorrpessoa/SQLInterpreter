@@ -1,0 +1,27 @@
+
+ksquid:S1192"HDefine a constant instead of duplicating this literal " where " 3 times.(‘‰şçùÿÿÿÿ8Ì‰«İõ,
+gsquid:S1192"IDefine a constant instead of duplicating this literal "order by" 3 times.(´©„8Ì‰«İõ,
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(â•‘îøÿÿÿÿ8Çë®İõ,
+[
+squid:S106)"9Replace this use of System.out or System.err by a logger.(…Ø÷ùÿÿÿÿ8Çë®İõ,
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(Üöó÷8Çë®İõ,
+„squid:S14889"aImmediately return this expression instead of assigning it to the temporary variable "andOrList".(Ú¶û–ÿÿÿÿÿ8¯â¬Ùõ,
+lsquid:S1192"IDefine a constant instead of duplicating this literal "group by" 3 times.(éß­˜ÿÿÿÿÿ8Ì‰«İõ,
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ë´¢»ıÿÿÿÿ8Çë®İõ,
+osquid:S1871C"LThis branch's code block is the same as the block for the branch on line 65.(ıºÓÕÿÿÿÿÿ8ô½Øõ,
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(˜¿¼üÿÿÿÿ8Çë®İõ,
+V
+squid:S106+"9Replace this use of System.out or System.err by a logger.(æ«°8Çë®İõ,
+‹"squid:ClassVariableVisibilityCheck	"QMake query a static final constant or non-public and provide accessors if needed.(æõ…±ÿÿÿÿÿ8Ää¬İõ,
+V
+squid:S106*"9Replace this use of System.out or System.err by a logger.(¯ù›£8Çë®İõ,
+V
+squid:S106/"9Replace this use of System.out or System.err by a logger.(Æ®±Ä8Çë®İõ,
+1squid:S1220""Move this file to a named package.
+Nsquid:S1444	"+Make this "public static query" field final(æõ…±ÿÿÿÿÿ8Ää¬İõ,
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(Ì×¡™ıÿÿÿÿ8Çë®İõ,

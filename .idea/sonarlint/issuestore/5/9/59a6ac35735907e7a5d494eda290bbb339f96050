@@ -1,0 +1,27 @@
+
+\squid:S1854d"9Remove this useless assignment to local variable "value".(¹ÁØàøÿÿÿÿ8ÏÒÚû÷,
+Fsquid:S1148Q"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Éş¼×÷,
+psquid:S3776a"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(˜¢¥œ8ÏÒÚû÷,
+qsquid:S3776±"RRefactor this method to reduce its Cognitive Complexity from 95 to the 15 allowed.(­ƒÁ8ÏÒÚû÷,
+bsquid:S1155µ">Use isEmpty() to check whether the collection is empty or not.(ÑÛ°øÿÿÿÿ8ÏÒÚû÷,
+[
+squid:S1065"9Replace this use of System.out or System.err by a logger.(ÀóÜÏùÿÿÿÿ8Ä·¬£ö,
+]squid:S1854‹"9Remove this useless assignment to local variable "value".(¹ÁØàøÿÿÿÿ8ÏÒÚû÷,
+bsquid:S1155¢">Use isEmpty() to check whether the collection is empty or not.(ŸŸşÿÿÿÿ8ÏÒÚû÷,
+Fsquid:S1148I"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Éş¼×÷,
+;squid:S1643"Use a StringBuilder instead.(ôìŒ8ÏÒÚû÷,
+w
+squid:S135¸"YReduce the total number of break and continue statements in this loop to use at most one.(¼ßğ¥8ÏÒÚû÷,
+1squid:S1220""Move this file to a named package.
+V
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ûùÂÉ8Ä·¬£ö,
+;squid:S1643 "Use a StringBuilder instead.(„§ëõ8ÏÒÚû÷,
+\
+squid:S106«"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8ÏÒÚû÷,
+qsquid:S3776›"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÜÓ´”8ÏÒÚû÷,
+Fsquid:S1148K"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Éş¼×÷,
+@squid:S1643š"Use a StringBuilder instead.(¬›Şüÿÿÿÿ8ÏÒÚû÷,
+;squid:S1643¥"Use a StringBuilder instead.(»şµÈ8ÏÒÚû÷,
+W
+squid:S106±"9Replace this use of System.out or System.err by a logger.(Ê¿’8ÏÒÚû÷,
+asquid:UnusedPrivateMethodX"0Remove this unused private "orderDataBy" method.(åŸùÀûÿÿÿÿ8¸„›ı÷,

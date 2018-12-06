@@ -1,0 +1,6 @@
+
+1squid:S1220""Move this file to a named package.
+ysquid:S00116"URename this field "QUERY_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô´‚†ùÿÿÿÿ8 ûÜõ,
+rsquid:S00100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒËä¹ûÿÿÿÿ8ê­¢İõ,
+msquid:S00100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¨ì8ê­¢İõ,
+psquid:S00117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¨ì8ê­¢İõ,
